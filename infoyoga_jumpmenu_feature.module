@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the infoyoga_jumpmenu_feature feature.
+ */
+
+include_once('infoyoga_jumpmenu_feature.features.inc');
